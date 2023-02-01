@@ -14,7 +14,7 @@ APP_ID = int(os.environ.get("APP_ID", "28123666"))
 API_HASH = os.environ.get("API_HASH", "e0a07eff8e5ff1dd72edcac6bb213a42")
 
 # Generate a user session string 
-TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "BQGtIhIAXUlQkaKS54oUVsu4raHrXK7HGDzyY-51LHH7Rt_fc5ypIE10SNMmJ5sFZedBDsq2uhTtkFYcIiSkqDB7c1fuT5LTJXflOMvsaVSN5Z7_vKuuPUsDfhOglJYtZO3LEcZKB9tGsvP2PJubZBHzFut5WQ2NXdNRjnEq2tC67GZapzpaiZtyM1tzcdvyGfsPrtu6pQ4f8DXFH_5Fv02dC-UDPOY6oeI-n0ewK-Me1ZQgkObxEtUetI5QsC8fynG5tTJr74HA6Ul7sELCagMrY58m4JoCqOhc8Vpmeyb12nTOBx06DqGcqihMJgumy-QfmDJI_UYTTgrr6V-BBsXO_1gHuAAAAAFO9YB4AA")
+TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "BQGtIhIAE-07XFojA3qLwS7HrRiIffmVQFEv5UERxZ5A_W0n4Ruyogq9jlDD1bW8uY1MuhSvDeP10HaoUWv38R5yUc0Ngkzpfv4hi63LS0nljG4OuihGVleRz8dwrvWrt7PZChCkGj_24jMiSvLsxJZVY_XLnAXMbifo2dSCWe00cuLjci-ako3C0or7mNqTgIA_gTy_ePHnAeFnb_aPo2AXy-H_vR13rTEhLfzeQKCN68HNupvZ_mgPxFvTICOdpr1v8XTIg66BrQZXUD1tXmGx848njKaG0zMSuhtMS4wmdxS4GkmmmBEjH4Hy-rYxGfImBA3UvjKnVRZxkeu14Gcrcs1mQAAAAAFO9YB4AA")
 
 # Database URL from https://cloud.mongodb.com/
 DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://prasad:12345@cluster0.cjtzf1k.mongodb.net/?retryWrites=true&w=majority")
